@@ -1,4 +1,4 @@
-<h2 align="left">Info</h2>
+<h2 align="left">Developing Games and Software</h2>
 
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JvSecate&theme=2077" height="180em" />
