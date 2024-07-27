@@ -1,7 +1,7 @@
 <h2 align="left">Developing Games and Software</h2>
 
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JvSecate&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JvSecate&theme=aura" height="180em" />
 </div>
 
 <img align="left" height="156" src="https://c.tenor.com/AGgVj_aylZUAAAAd/tenor.gif"  />
