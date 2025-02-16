@@ -1,4 +1,7 @@
-<img alt="HI" src="./assets/HI.gif" width='40' align="left"/><h2></h2>
+<div>
+  <img alt="HI" src="./assets/HI.gif" width="250"/>
+</div>
+
 
 ### 📝&nbsp;Info
 🎓 &nbsp;Computer engineering student.\
@@ -9,7 +12,7 @@
 ✉️ &nbsp;Contact me at inbox.jvsecate@gmail.com 
 
 
-<img alt="ME" src="./assets/ME.gif" align="right"/>
+<img alt="ME" src="./assets/ME.gif" width='250' align="right"/>
 
 ### 🛠 &nbsp;My burden
 
