@@ -1,30 +1,43 @@
-<h2 align="left">Developing Games and Software</h2>
+<img alt="HI" src="./assets/HI.gif" width='40' align="left"/><h2></h2>
+
+### 📝&nbsp;Info
+🎓 &nbsp;Computer engineering student.\
+📺 &nbsp;Working on Streaming/Filmmaking Tools.\
+👾 &nbsp;Indie Game Developer.\
+🍩 &nbsp;Sometimes i create some stuff on blender.\
+🤝&nbsp;A lot of experience please hire me.\
+✉️ &nbsp;Contact me at inbox.jvsecate@gmail.com 
 
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JvSecate&theme=aura" height="180em" />
-</div>
+<img alt="ME" src="./assets/ME.gif" align="right"/>
 
-<img align="left" height="156" src="https://c.tenor.com/AGgVj_aylZUAAAAd/tenor.gif"  />
+### 🛠 &nbsp;My burden
+
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)&nbsp;
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)&nbsp;
+
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)&nbsp;
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)&nbsp;
+![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)&nbsp;
+![Playdate SDK](https://img.shields.io/badge/Playdate%20SDK-F6C915?logo=&logoColor=black)&nbsp;
+
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)&nbsp;
 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
-</div>
+### ⚙️ &nbsp;GitHub
 
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/c/JvNSecate" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-</div>
-
-###
+<p align="center">
+<a href="https://github.com/JvSecate">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JvSecate&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
