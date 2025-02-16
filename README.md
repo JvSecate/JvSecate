@@ -12,7 +12,7 @@
 ✉️ &nbsp;Contact me at inbox.jvsecate@gmail.com 
 
 
-<img alt="ME" src="./assets/ME.gif" width='250' align="right"/>
+<img alt="ME" src="./assets/ME.gif" width='200' align="right"/>
 
 ### 🛠 &nbsp;My burden
 
@@ -40,7 +40,7 @@
 
 <p align="left">
 <a href="https://github.com/JvSecate">
-  <img src="https://github-readme-stats.vercel.app/api?username=JvSecate&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="JvSecate's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=JvSecate&theme=midnight-purple" alt="JvSecate's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JvSecate&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="JvSecate's GitHub Stats" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=JvSecate&theme=midnight-purple" alt="JvSecate's GitHub Stats" />
 </a>
 </p>
