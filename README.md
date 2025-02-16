@@ -33,11 +33,11 @@
 
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)&nbsp;
 
+### ⚙️ &nbsp;Fancy Stat thingy
 
-### ⚙️ &nbsp;GitHub
-
-<p align="center">
+<p align="left">
 <a href="https://github.com/JvSecate">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JvSecate&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JvSecate&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="JvSecate's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=JvSecate&theme=midnight-purple" alt="JvSecate's GitHub Stats" />
 </a>
 </p>
