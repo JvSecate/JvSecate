@@ -5,7 +5,6 @@
 
 ### 📝&nbsp;Info
 🎓 &nbsp;Computer engineering student.\
-📺 &nbsp;Working on Streaming/Filmmaking Tools.\
 👾 &nbsp;Indie Game Developer.\
 🍩 &nbsp;Sometimes i create some stuff on blender.\
 🤝&nbsp;A lot of experience please hire me.\
